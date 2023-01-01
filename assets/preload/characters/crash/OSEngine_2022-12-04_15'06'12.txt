@@ -1,0 +1,17 @@
+C:\HaxeToolkit\haxe\std/cpp/_std/sys/io/File.hx (line 30)
+Character.hx (line 118)
+editors/CharacterEditorState.hx (line 940)
+editors/CharacterEditorState.hx (line 436)
+FlxUIDropDownMenuCustom.hx (line 500)
+FlxUIDropDownMenuCustom.hx (line 361)
+flixel/ui/FlxButton.hx (line 521)
+flixel/addons/ui/FlxUITypedButton.hx (line 1172)
+flixel/addons/ui/FlxUIButton.hx (line 362)
+flixel/ui/FlxButton.hx (line 507)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: [file_contents,assets/characters/bf.json]
+Please report this error to the GitHub page: https://github.com/notweuz/FNF-OSEngine
+
+> Crash Handler written by: sqirra-rng
